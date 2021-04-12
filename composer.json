@@ -1,0 +1,16 @@
+{
+    "name": "zoviet/narodmon",
+    "description": "Клиент API чтения данных с датчиков для narodmon",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Zoviet",
+            "email": "alexandr@asustem.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		
+	}
+}
